@@ -1,5 +1,4 @@
 ﻿absl-py==2.1.0
-waitress==2.1.0
 ansicon==1.89.0
 astunparse==1.6.3
 attrs==24.2.0
